@@ -1,4 +1,6 @@
 ## UAObfuscatedString
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2FUAObfuscatedString.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2FUAObfuscatedString?ref=badge_shield)
+
 
 UAObfuscatedString is a simple and lightweight category of `NSMutableString` that allows you to
 prevent sensitive strings from appearing in your compiled binary.
@@ -100,3 +102,7 @@ You get the idea. There are many ways to obfuscate strings, this is just one of 
 - [UAModalPanel](https://github.com/UrbanApps/UAModalPanel) - An animated modal panel alternative for iOS
 - [UAProgressView](https://github.com/UrbanApps/UAProgressView) A simple and lightweight, yet powerful animated circular progress view
 - [Urban](https://github.com/UrbanApps/Urban) - An Xcode color scheme that uses a soft dark background, with subtle blue, orange and yellow colors
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2FUAObfuscatedString.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2FUAObfuscatedString?ref=badge_large)
